@@ -22,7 +22,8 @@
 
 ## Général
 <ul>
-  <li><a href=""></a>Technique de somme</li></ul>
+  <li><a href="">Somme</a></li>
+</ul>
 
 ## Listes
 <ul>
