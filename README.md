@@ -14,6 +14,11 @@
 * [Résolution numérique équations différentielles](#résolution-numérique-équations-différentielles)
 * [Résolution numérique systèmes linéaires](#résolution-numérique-systèmes-linéaires)
 * [Graphes](#graphes)
+* [Tris](#tris)
+* [Récursivité](#récursivité)
+* [Arithmétique](#arithmétique)
+* [Probabilité](#probabilité)
+* [Matrices](#matrices)
 
 ## Général
 <ul>
@@ -45,6 +50,31 @@
 </ul>
 
 ## Graphes
+<ul>
+  <li><a href=""></a></li>
+</ul>
+
+## Tris
+<ul>
+  <li><a href=""></a></li>
+</ul>
+
+## Récursivité
+<ul>
+  <li><a href=""></a></li>
+</ul>
+
+## Arithmétique
+<ul>
+  <li><a href=""></a></li>
+</ul>
+
+## Probabilité
+<ul>
+  <li><a href=""></a></li>
+</ul>
+
+## Matrices
 <ul>
   <li><a href=""></a></li>
 </ul>
