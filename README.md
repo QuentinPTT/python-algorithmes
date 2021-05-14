@@ -27,9 +27,9 @@
 ## Listes
 <ul>
   <li><a href="">Présence d'un élément</a></li>
-  <li><a href=""></a>Recherche dichotomique d'un élément dans une liste triée</li>
+  <li><a href="">Recherche dichotomique d'un élément dans une liste triée</a></li>
   <li><a href="">Nombre d'occurrences d'un élément</a></li>
-  <li><a href=""><Indice d'apparition d'un élément/a></li>
+  <li><a href="">Indice d'apparition d'un élément</a></li>
   <li><a href="">Maximum / Minimum </a></li>
   <li><a href="">Moyenne</a></li>
   <li><a href="">Map liste</a></li>
@@ -84,7 +84,7 @@
   <li><a href="">Factorielle</a></li>
   <li><a href="">Somme</a></li>
   <li><a href="">Suite de Fibonacci</a></li>
-  <li><a href=""></a>PGCD</li>
+  <li><a href="">PGCD</a></li>
 </ul>
 
 ## Arithmétique
