@@ -38,4 +38,4 @@ def newton4(f,a,eps,h):
 newton1(f,fp,0,10)
 newton2(f,fp,0,10**(-2))
 newton3(f,fp,0,10**(-2))
-newton3(f,0,10**(-2),10**(-2))
+newton4(f,0,10**(-2),10**(-2))
