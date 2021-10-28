@@ -27,6 +27,15 @@ def newton3(f,fp,u0,eps):
         u-=f(u)/fp(u)
     return u
 
+def newton4(f,a,eps,h):
+    x=a
+    y=x-f(x)/fd(x)
+    while abs(y-x)>eps:
+        x=y
+        y=x-f(x)/((f(x+h)-f(x))/h)
+    return y
+
 newton1(f,fp,0,10)
 newton2(f,fp,0,10**(-2))
 newton3(f,fp,0,10**(-2))
+newton4(f,0,10**(-2),10**(-2))
